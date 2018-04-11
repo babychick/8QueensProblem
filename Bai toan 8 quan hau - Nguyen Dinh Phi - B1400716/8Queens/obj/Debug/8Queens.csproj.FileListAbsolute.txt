@@ -1,0 +1,37 @@
+E:\Subjects\NLCS\Project\8Queens\8Queens\bin\Debug\8QueensSimulation.exe.config
+E:\Subjects\NLCS\Project\8Queens\8Queens\bin\Debug\8QueensSimulation.exe.manifest
+E:\Subjects\NLCS\Project\8Queens\8Queens\bin\Debug\8QueensSimulation.application
+E:\Subjects\NLCS\Project\8Queens\8Queens\bin\Debug\8QueensSimulation.exe
+E:\Subjects\NLCS\Project\8Queens\8Queens\bin\Debug\8QueensSimulation.pdb
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.Auto.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.MainForm.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.Manual.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.miniMap.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.Properties.Resources.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.Record.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\_8Queens.ResultForm.resources
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\8Queens.csproj.GenerateResource.Cache
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\8QueensSimulation.exe.manifest
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\8QueensSimulation.application
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\8QueensSimulation.exe
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\8QueensSimulation.pdb
+E:\Subjects\NLCS\Project\8Queens\8Queens\obj\Debug\8Queens.csprojResolveAssemblyReference.cache
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.exe.config
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.exe.manifest
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.application
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.exe
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.pdb
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8Queens.csprojResolveAssemblyReference.cache
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Auto.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.MainForm.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Manual.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.miniMap.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Properties.Resources.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Record.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.ResultForm.resources
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8Queens.csproj.GenerateResource.cache
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8Queens.csproj.CoreCompileInputs.cache
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.exe.manifest
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.application
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.exe
+D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.pdb

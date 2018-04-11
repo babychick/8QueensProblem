@@ -1,0 +1,11 @@
+5
+Long
+5
+minh
+8
+Nhan
+47
+Phi
+100
+DPhi
+238
