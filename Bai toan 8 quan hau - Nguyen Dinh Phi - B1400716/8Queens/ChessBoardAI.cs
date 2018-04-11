@@ -127,7 +127,7 @@ namespace _8Queens
         {
             _listResult = new List[92];
             int i = 0;
-            StreamReader r = new StreamReader(@"E:\Subjects\NLCS\Project\8Queens\8Queens\Result.txt");
+            StreamReader r = new StreamReader("../Result.txt");
             string line;
             if (r.Peek() > 0)
             {
