@@ -35,22 +35,22 @@ D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8
 D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.application
 D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.exe
 D:\OneDrive\Subjects 2.0\NLCS\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.pdb
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.exe.config
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.exe.manifest
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.application
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.exe
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\bin\Debug\8QueensSimulation.pdb
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8Queens.csprojResolveAssemblyReference.cache
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Auto.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.MainForm.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Manual.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.miniMap.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Properties.Resources.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.Record.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\_8Queens.ResultForm.resources
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8Queens.csproj.GenerateResource.cache
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8Queens.csproj.CoreCompileInputs.cache
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.exe.manifest
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.application
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.exe
-E:\Git\8QueensProblem\Bai toan 8 quan hau - Nguyen Dinh Phi - B1400716\8Queens\obj\Debug\8QueensSimulation.pdb
+E:\Code C#\Bai toan 8 quan hau\8Queens\bin\Debug\8QueensSimulation.exe.config
+E:\Code C#\Bai toan 8 quan hau\8Queens\bin\Debug\8QueensSimulation.exe.manifest
+E:\Code C#\Bai toan 8 quan hau\8Queens\bin\Debug\8QueensSimulation.application
+E:\Code C#\Bai toan 8 quan hau\8Queens\bin\Debug\8QueensSimulation.exe
+E:\Code C#\Bai toan 8 quan hau\8Queens\bin\Debug\8QueensSimulation.pdb
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8Queens.csprojResolveAssemblyReference.cache
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.Auto.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.MainForm.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.Manual.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.miniMap.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.Properties.Resources.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.Record.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\_8Queens.ResultForm.resources
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8Queens.csproj.GenerateResource.cache
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8Queens.csproj.CoreCompileInputs.cache
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8QueensSimulation.exe.manifest
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8QueensSimulation.application
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8QueensSimulation.exe
+E:\Code C#\Bai toan 8 quan hau\8Queens\obj\Debug\8QueensSimulation.pdb

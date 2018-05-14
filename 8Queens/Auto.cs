@@ -270,7 +270,7 @@ namespace _8Queens
             #endregion
 
             #region backtracking using stack
-            File.WriteAllText("../Result.txt", string.Empty);
+            File.WriteAllText(@"\Result.txt", string.Empty);
             int j = 0;
             count = 1;
 
@@ -349,7 +349,6 @@ namespace _8Queens
                     break;
             }
 
-            _pauseEvent.Close();
             if (_isFinish)
             {
                 MessageBox.Show("HOÀN TẤT!", "Thông báo");
@@ -365,7 +364,11 @@ namespace _8Queens
                     _btnStart.Text = "Bắt đầu";
                     _btnPause.Text = "Tạm dừng";
                 }));
+
+                T.Abort();
             }
+
+            _pauseEvent.Close();
             #endregion
         }
     }
